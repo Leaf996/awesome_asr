@@ -25,6 +25,7 @@
 - [las][3]
 - [clova-speech-hackathon][4]
 - [**sparse_image_warp_pytorch**][5]
+- [**espnet.transform.spec_augment**][6]
 
 
 ### Reference Blog
@@ -41,3 +42,4 @@
 [3]:https://github.com/hgstudent/las
 [4]:https://github.com/jw9730/clova-speech-hackathon
 [5]:https://github.com/bobchennan/sparse_image_warp_pytorch
+[6]:https://espnet.github.io/espnet/_modules/espnet/transform/spec_augment.html

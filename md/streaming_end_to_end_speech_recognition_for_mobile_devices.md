@@ -3,7 +3,7 @@
 - How to understand U+T ?
 - How to process data ?
 - Pretrain is MUST ?
-
+- **Pred_Network feed True Lable** ? Yes
 
 ### Key Concepts
 - streaming fashion
@@ -41,6 +41,7 @@
 - [An All-Neural On-Device Speech Recognizer][6]
 - [使用RNN-Transducer进行语音识别建模][11]
 - [Sequence Transducer][12]
+- [语音识别中的End2End模型: CTC, RNN-T与LAS][13]
 
 
 ### Related Papers
@@ -60,3 +61,4 @@
 [10]:https://github.com/zzw922cn/Automatic_Speech_Recognition
 [11]:https://zhuanlan.zhihu.com/p/62050647
 [12]:https://blog.csdn.net/JackyTintin/article/details/81251591
+[13]:https://zhuanlan.zhihu.com/p/62836549

@@ -3,7 +3,7 @@
 - How to understand U+T ?
 - How to process data ?
 - Pretrain is MUST ?
-- **Pred_Network feed True Lable** ? Yes
+- **Pred_Network feed True Label** ? Yes
 
 ### Key Concepts
 - streaming fashion

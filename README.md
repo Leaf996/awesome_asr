@@ -26,7 +26,7 @@ Speech Data Augment Related
 ## TODO List
 - Un-readed
     - [ ] [the_speechtransformer_for_large_scale_mandarin_chinese_speech_recognition(pdf)][4]
-
+    
 
 [1]:pdf/SpecAugment.pdf
 [2]:md/SpecAugment.md

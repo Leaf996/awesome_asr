@@ -6,7 +6,11 @@ Speech Data Augment Related
 - SpecAugment
     - [SpecAugment(pdf)][1]
     - [SpecAugment(md)][2]
-
+## Tools
+- RNNLM
+    - [RNNLM Toolkit][10]
+    - [rnnlm(code)][11]
+    - [faster-rnnlm(code)][12]
 
 ## Model
 - RNN-T
@@ -33,3 +37,6 @@ Speech Data Augment Related
 [7]:md/a_streaming_on_device_end_to_end_mobile_sota.md
 [8]:pdf/rnn-t.pdf
 [9]:md/rnn-t.md
+[10]:http://www.fit.vutbr.cz/~imikolov/rnnlm/
+[11]:https://github.com/IntelLabs/rnnlm
+[12]:https://github.com/yandex/faster-rnnlm

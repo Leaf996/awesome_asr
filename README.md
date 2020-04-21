@@ -27,6 +27,9 @@ Speech Data Augment Related
 - Un-readed
     - [ ] [the_speechtransformer_for_large_scale_mandarin_chinese_speech_recognition(pdf)][4]
     
+## Reference Blog
+- [**paper list**][13]
+
 
 [1]:pdf/SpecAugment.pdf
 [2]:md/SpecAugment.md
@@ -40,3 +43,4 @@ Speech Data Augment Related
 [10]:http://www.fit.vutbr.cz/~imikolov/rnnlm/
 [11]:https://github.com/IntelLabs/rnnlm
 [12]:https://github.com/yandex/faster-rnnlm
+[13]:https://github.com/Pelhans/paper_list/tree/master/speech

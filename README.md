@@ -30,6 +30,8 @@ Speech Data Augment Related
 ## Reference Blog
 - [**paper list**][13]
 
+## Course
+- [**EECS E6870**][14]
 
 [1]:pdf/SpecAugment.pdf
 [2]:md/SpecAugment.md
@@ -44,3 +46,4 @@ Speech Data Augment Related
 [11]:https://github.com/IntelLabs/rnnlm
 [12]:https://github.com/yandex/faster-rnnlm
 [13]:https://github.com/Pelhans/paper_list/tree/master/speech
+[14]:http://www.ee.columbia.edu/~stanchen/fall12/e6870/index.html

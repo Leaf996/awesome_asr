@@ -26,7 +26,10 @@ Speech Data Augment Related
 ## TODO List
 - Un-readed
     - [ ] [the_speechtransformer_for_large_scale_mandarin_chinese_speech_recognition(pdf)][4]
-    
+
+## Kaldi语音识别实践
+- page 9
+
 ## Reference Blog
 - [**paper list**][13]
 
